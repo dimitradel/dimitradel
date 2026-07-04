@@ -7,7 +7,6 @@
 ## Αντικείμενα που με ενδιαφέρουν
 
 - 🐍 Python
-- 🤖 CoDrone EDU
 - 📟 Raspberry Pi Pico W
 - 🔌 Arduino
 - 🌡️ Internet of Things (IoT)
