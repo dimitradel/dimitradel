@@ -1,16 +1,21 @@
-## Hi there 👋
+# Γεια σας! 👋
 
-<!--
-**dimitradel/dimitradel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Είμαι η Δήμητρα Δεληκώστα και είμαι καθηγήτρια σε Λύκειο.
 
-Here are some ideas to get you started:
+Μου αρέσει να δημιουργώ εκπαιδευτικά έργα που συνδυάζουν τον προγραμματισμό με το Internet of Things (IoT), τη ρομποτική και τις νέες τεχνολογίες.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Αντικείμενα που με ενδιαφέρουν
+
+- 🐍 Python
+- 🤖 CoDrone EDU
+- 📟 Raspberry Pi Pico W
+- 🔌 Arduino
+- 🌡️ Internet of Things (IoT)
+- 💻 MicroPython
+- 📚 Εκπαιδευτική Τεχνολογία
+
+## Στόχος μου
+
+Να αναπτύσσω εκπαιδευτικό υλικό και παραδείγματα που βοηθούν τους μαθητές να αγαπήσουν τον προγραμματισμό και τις νέες τεχνολογίες.
+
+Καλώς ήρθατε στο προφίλ μου!
